@@ -31,16 +31,23 @@ body {
 
 .navbar-brand {
     font-weight: 700;
+    font-size: 1.8rem;
+    letter-spacing: 1px;
 }
 
 .brand-text {
     color: var(--brand-color);
-    font-weight: 700;
+    font-weight: 800;
+    text-transform: uppercase;
+    font-family: 'Poppins', sans-serif;
 }
 
 .brand-subtext {
-    color: #fff;
-    font-weight: 300;
+    color: #ffffff;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-family: 'Poppins', sans-serif;
+    margin-left: 5px;
 }
 
 .nav-link {
